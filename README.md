@@ -2,7 +2,7 @@
 
 A cross-platform Flutter app to manage the relationship between sales personnel and fabricators. Built for Android, iOS, and web. Currently deployed as a browser version and used by regional and national sales heads at aluplast India.
 
-Screenshots available in ```/screenshots```.
+Screenshots available in ```/ap-screenshots```. User and business data has been redacted in all screenshots.
 
 ---
 
